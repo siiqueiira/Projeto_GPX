@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Projeto GPX</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+</head>
+<body>
+
+<!– 1º Página (Canto Superior Esquerdo) –>
+
+	<div id="container">
+		<div class="relogio">
+			<span id="horas">00</span>
+			<span class="tempo">:</span>
+		</div>
+
+		<div class="relogio">
+			<span id="minutos">00</span>
+			<span class="tempo">:</span>
+		</div>
+
+		<div class="relogio">
+			<span id="segundos">00</span>
+			<span class="tempo"></span>
+		</div>
+	</div>
+
+<!– 2º Página (Canto Inferior Esquerdo) –>
+
+	<div id="container2">
+
+		<div id="bloco"> 
+		<div id="formatacao">
+			<form>
+				<select name="lista" required="required">
+					<option value="">Selecione uma opção</option>
+				</select>
+			</form>
+
+		</div> 
+		<div id="formatacao">
+			<input type="text" id="valor" name="itens" placeholder="Insira um item">
+		</div> 
+
+		<div id="formatacao">
+			<button onclick="produto.adicionar()">Adicionar</button>
+			<button onclick="produto.remover()">Remover</button>
+			<button onclick="produto.limpar()">Limpar caixa</button>
+		</div>  
+
+		<div id="formatacao">
+			Selecione uma opção
+		</div>  
+	</div>
+
+<!– 3º Página (Canto Inteiro Direito) –>
+
+	<div id="container3">
+		<button class="circulo" onclick="not()"></button>
+	</div>
+
+	</div>
+
+</body>
+<script src="script.js"></script>
+</html>
