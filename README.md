@@ -1,4 +1,4 @@
-# Projeto_GPX
+# Projeto_GPX 👨‍💻
 
 ## Tecnologias 💻
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -17,7 +17,7 @@ E no final o resultado será esse
 
 ## Screenshots 📷
 <h1 align="center">
-    <img alt="" title="#teste" src="https://github.com/siiqueiira/Teste_GPX/blob/main/principal.png"/>
+    <img alt="" title="#teste" src="https://github.com/siiqueiira/Projeto_GPX/blob/main/principal.png"/>
 </h1>
 
 Obrigado! ❤
