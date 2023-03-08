@@ -13,7 +13,7 @@ Fazer o download do três arquivos presente neste diretório
 3. script.js.
 
 Abrir a index.html em seu navegador<br>
-E no final o resultado será esse
+E no final o resultado será esse 👇
 
 ## Screenshots 📷
 <h1 align="center">
