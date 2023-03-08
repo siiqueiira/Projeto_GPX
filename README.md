@@ -2,9 +2,9 @@
 
 ## Tecnologias 💻
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
-- [JavaScript](https://www.javascript.com/)
+- [HTML;](https://www.w3schools.com/html/)
+- [CSS;](https://www.w3schools.com/css/)
+- [JavaScript.](https://www.javascript.com/)
 
 ## Leitura 📖
 Fazer o download do três arquivos presente neste diretório
